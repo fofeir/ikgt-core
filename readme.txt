@@ -205,4 +205,7 @@ Config files
 		- TIME_PROFILE
 		Description: For debug. Profile guest OS and EVMM performance
 
+	- MODULE_INTERRUPT_IPI
+		Description: Deliver interrupt to Guest by Self-IPI.
+
 End of file
